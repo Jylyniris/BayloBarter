@@ -15,5 +15,6 @@ BayloBarter is a platform where user may exchange items with one another. It is 
 1. Creates an offer to list your item for swap.
 2. Connects two users to chat about a transaction.
 3. List an item.
-4. Suggests swap offers in your area.
-5. Shows user profiles to see items, trade history, and ratings.
+4. See most popular categories
+5. Take a peak on what is the most popular item in the site
+6. Explore the adventurous world of bartering here in BAYLO BARTER WEB SITE
