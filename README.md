@@ -1,5 +1,5 @@
 # BayloBarter
-"Stop shopping, Start bartering"
+"Discover, Trade, and Connect"
 
 BayloBarter is a platform where user may exchange items with one another. It is a safe and secure transaction platform that promotes a community of people that are passionate about sustainability and waste reduction. So through this platform, people can save money, build community, and help the environment.
 
